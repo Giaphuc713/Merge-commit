@@ -1,0 +1,1 @@
+print("Sở thích của t là học tiếng anh và tập gym")

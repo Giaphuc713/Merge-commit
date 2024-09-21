@@ -1,1 +1,1 @@
-print("Mình là HGP")
+print("Sở thích là tập gym nghe nhạc chạy bộ")
